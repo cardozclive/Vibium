@@ -1,4 +1,4 @@
-Steps to clone the repo
+####Steps to clone the repo
 
 1. Cloning repository "git clone https://github.com/cardozclive/Vibium.git"
 2. Take a fresh pull "git pull"
@@ -6,7 +6,7 @@ Steps to clone the repo
 4. node ./Vibe.js
 
 
-Steps to install and run vibium (New Project)
+####Steps to install and run vibium (New Project)
 
 1. Open a folder in VS Code
 2. Run "npm init -y" to initiate a npm project
